@@ -13,4 +13,4 @@
 ## Project Structure
 
 ### 1. Database Setup
-![ERD]()
+![ERD](https://github.com/vikash-013/Library-Management-System-Advanced-SQL-Project/blob/main/Diagram.png)
